@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**gomez9656/gomez9656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Juan Pablo Gomez Garcia. I'm from Colombia and I have 23 years old. I studied Electronic Engineering and currently work as an Intern in Accenture Colombia for the DevOps team.
 
-Here are some ideas to get you started:
+### Passions
+One of my greatest passion is programming, specially, hardware programming. I love embedded software and everything that comes with it. 
+My other passion is the space exploration. Rockets, orbital mechanics, humans on space; are among my greatest interest. 
+My goal is to work on a place where I can uny this 2 passions and bring some truly improvements to the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also like cooking and running outdoors.
+
+### Education
+I studied Electronic Engineering in UPB Colombia. Besides that, I studied a lot of programming topics in Platzi, and embedded systems in Udemy. 
+
+
+### Lenguages
+Fluent English and an intermediate German. If you want to ask me anything please try it on German, I would like to improve my German.
+
+### Website
+You can reach me on:
+https://www.linkedin.com/in/juangomez-garcia/
