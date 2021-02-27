@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Juan Pablo Gomez Garcia. I'm from Colombia and I have 24 years old. I studied Electronic Engineering and currently work as an Intern in Accenture Colombia for the DevOps team.
+My name is Juan Pablo Gomez Garcia. I'm from Colombia and I have 24 years old. I studied Electronic Engineering and currently work as a software developer in Colombia.
 
 ### Passions
 One of my greatest passion is programming, specially, hardware programming. I love embedded software and everything that comes with it. 
