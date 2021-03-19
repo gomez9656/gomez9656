@@ -1,9 +1,9 @@
 ### Hi! 👋
 
-My name is Juan Pablo Gomez Garcia and I want to create embedded systems that lands in another planet🚀. I'm from Colombia and I have 24 years old. I studied Electronic Engineering and currently work as a software developer in Colombia.
+My name is Juan Pablo Gomez Garcia and I want to create embedded systems that lands in another planets and help humnanity expand their presence in space🚀. I'm from Colombia and have 24 years old. I studied Electronic Engineering and I am currently searching for oportunities in the embedded systems world.
 
 ### Passions
-One of my greatest passion is programming, specially, hardware programming. I love embedded software and everything that comes with it. 
+One of my greatest passion is hardware programming. I love embedded software and everything that comes with it. 
 My other passion is the space exploration. Rockets, orbital mechanics, humans on space; are among my greatest interest. 
 My goal is to work on a place where I can uny this 2 passions and bring some truly improvements to the world.
 
