@@ -1,20 +1,19 @@
 ### Hi! 👋
 
-My name is Juan Pablo Gomez Garcia and I want to create embedded systems that lands in another planets and help humanity expand their presence in space🚀. I'm from Colombia and I am 24 years old. I have an Electronic Engineering degree and i am currently searching for oportunities in the embedded systems world.
+I am an Electronic Engineer who wants to create Embedded Systems that help humanity expand their presence in space. I am seeking for a challenging position in the aerospace sector in Germany as an Embedded Systems/Software Engineer.
 
-### Passions
-One of my greatest passion is hardware programming. I love embedded software and everything that comes with it. 
-My other passion is the space exploration. Rockets, orbital mechanics, humans on space; are among my greatest interest. 
-My goal is to work on a place where I can uny this 2 passions and bring some truly improvements to the world.
+As a Release Manager I learned Git, GitLab and Jenkins. Software from development to production was my key responsibility. I identified the risks that could delay the release and solved them with the different teams.
 
-I also like cooking and running outdoors.
+Embedded C, RTOS, ARM, debugging, hardware software level development, timers and interrupts are among the skills I have learned trough certifications and hobby projects as a Brick Breaker game.
 
-### Education
-I studied Electronic Engineering in UPB Colombia. Besides that, I studied a lot of programming topics in Platzi, and embedded systems in Udemy. 
+In college I was a member of a I+D research group. where I feel proud of developing a Python software to do automatic drilling in boards, using a 3D printer. This software helped me to design and prototype 2 other projects:
 
+- PCB Arduino shield for students to practice continuous control subjects
+- IoT prototype to control several 3D printers at the workshop, while the students are at home. Saving time and identifying errors early
 
-### Lenguages
-Fluent English and an intermediate German. If you want to ask me anything please try it on German, I would like to improve it.
+You can check all of this project in my GitHub: @gomez9656
+
+My native language is Spanish. I have a fluent English and an intermediate German. Don't hesitate to contact me here. Do it on German, ¡I would like to improve it! 
 
 ### Website
 You can reach me on:
