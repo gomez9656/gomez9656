@@ -6,7 +6,7 @@ As a Release Manager I learned Git, GitLab and Jenkins. Software from developmen
 
 Embedded C, RTOS, ARM, debugging, hardware software level development, timers and interrupts are among the skills I have learned trough certifications and hobby projects as a Brick Breaker game.
 
-In college I was a member of a I+D research group. where I feel proud of developing a Python software to do automatic drilling in boards, using a 3D printer. This software helped me to design and prototype 2 other projects:
+In college I was a member of a A+D research group. where I feel proud of developing a Python software to do automatic drilling in boards, using a 3D printer. This software helped me to design and prototype 2 other projects:
 
 - PCB Arduino shield for students to practice continuous control subjects
 - IoT prototype to control several 3D printers at the workshop, while the students are at home. Saving time and identifying errors early
