@@ -2,7 +2,7 @@
 
 I am an Electronic Engineer who wants to create Embedded Systems that help humanity expand their presence in space. I am seeking for a challenging position in the aerospace sector in Germany as an Embedded Systems/Software Engineer.
 
-As a Release Manager I learned Git, GitLab and Jenkins. Software from development to production was my key responsibility. I identified the risks that could delay the release and solved them with the different teams.
+As a Release Manager I learned Git, GitLab and Jenkins. Software from development to production was my key responsibility. I identified risks that could delay the release and solved them with the different teams.
 
 Embedded C, RTOS, ARM, debugging, hardware software level development, timers and interrupts are among the skills I have learned trough certifications and hobby projects as a Brick Breaker game.
 
