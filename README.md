@@ -11,7 +11,7 @@ In college I was a member of a I+D research group. where I feel proud of develop
 - PCB Arduino shield for students to practice continuous control subjects
 - IoT prototype to control several 3D printers at the workshop, while the students are at home. Saving time and identifying errors early
 
-You can check all this projects in my GitHub: @gomez9656
+You can check all this projects here on GitHub
 
 My native language is Spanish. I have a fluent English and an intermediate German. Don't hesitate to contact me here. Do it on German, ¡I would like to improve it! 
 
