@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I am an Electronic Engineer who wants to create Embedded Systems that help humanity expand its presence in space. I am seeking for a challenging position in the aerospace sector in Germany as an Embedded Systems/Software Engineer.
+I am an Electronic Engineer who wants to create Embedded Systems for a sustainable future. I am seeking for a challenging position in Germany as an Embedded Systems/Software Engineer.
 
 As a Release Manager I learned Git, GitLab and Jenkins. Software from development to production was my key responsibility. I identified risks that could delay the release and solved them with the different teams.
 
