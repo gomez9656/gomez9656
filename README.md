@@ -13,7 +13,7 @@ In college I was a member of an A+D research group. where I feel proud of develo
 
 You can check all this projects here on GitHub
 
-My native language is Spanish. I have a fluent English and an intermediate German. Don't hesitate to contact me here. Do it on German, I would like to improve it! 
+My native language is Spanish. I have fluent English and an intermediate German. Don't hesitate to contact me here. Do it on German, I would like to improve it! 
 
 ### Website
 You can reach me on:
