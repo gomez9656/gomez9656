@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I am an Electronic Engineer who wants to create Embedded Systems for a sustainable future. I am seeking a challenging position in Germany as an Embedded Systems/Software Engineer.
+I am an Electronic Engineer who wants to create Embedded Systems for a sustainable future. I am seeking a challenging position  as an Embedded Systems/Software Engineer where I can impact people's lives.
 
 As a Release Manager, I learned Git, GitLab, and Jenkins. Software from development to production was my key responsibility. I identified risks that could delay the release and solved them with the different teams.
 
