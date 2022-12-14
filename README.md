@@ -1,19 +1,37 @@
 ### Hi! 👋
 
-I am an Electronic Engineer who wants to create Embedded Systems for a sustainable future. Hands-on experience in prototyping, testing, and shipping software and hardware to production
+I am an Embedded Software | Firmware Engineer who wants to design innovative embedded systems that make a positive impact on people’s lives. 
 
-RTOS, debugging, hardware-level development, Timers / PWM, SPI / I2C / USART / BLE, and interrupts are among the skills I have learned through Freelancing as Embedded Software Engineer and certifications in Udemy.
+I specialize in designing reliable, efficient, and easy-to-maintain firmware in C/C++ for ARM microcontrollers, with a deep understanding of embedded systems architecture and proven track record in prototyping, testing, and delivering software and hardware products to market.
 
-As a Release Manager, I learned Git, GitLab, and Jenkins. Software from development to production was my key responsibility. I identified risks that could delay the release and solved them with the different teams.
+Here's a few examples of the products my clients are getting: 
 
-In college, I was a member of an A+D research group. where I worked as an Embedded systems developer. I feel proud of developing a Python app to do automatic drilling in PCBs, using a 3D printer. This software helped me to design and prototype 2 other projects:
+-BLE MESH app with OTA updates in ESP32-C3 to control 20+ light equipment for a studio set from a mobile device.
 
-- PCB Arduino shield for an inverted pendulum that helped students to practice continuous control subjects.
-- IoT prototype to control several 3D printers at the workshop, while the students are at home. Saving time and identifying errors early.
+-IoT app with ESP32-CAM to take temperature images and store them in the cloud using long-range communication for irrigation control and efficient water management.
 
-You can check all these projects here on GitHub.
+-BLE app in C/C++ using nRF chips to connect to heart rate sensors for real-time monitoring and data collection.
 
-My native language is Spanish. I have fluent English and intermediate German. Don't hesitate to contact me here. Do it in German, I would like to improve it! 
+-Embedded system in C using the ESP8266, a custom PCB shield, and an IoT cloud to enable automatic operation of 3D printers
 
-You can reach me on:
-https://www.linkedin.com/in/juangomez-garcia/
+I’m a versatile engineer and willing to accept new challenges, so I have a wide range of experience with different technologies, protocols, peripherals, and microcontrollers, among them:
+
+Microcontrollers
+-Espressif ESP32 / ESP8266 / ESP32-C3
+-Arduino Uno / Mega / Nano
+-STM32F4xx Nucleo Board
+-TI MSP432 Launchpad Board
+-NXP FRDM-KL25Z board
+-Nordic nRF52 DK / nRF24L01
+-TTGO T-Camera
+-Raspberry
+
+Technologies and protocols
+-IoT / RTOS / WIFI / BLE / BLE MESH / LoRa
+
+Peripherals
+-GPIO / UART / I2C / SPI / PWM / Timer / ADC / DAC / Watchdog / DMA / RTC / PLL / CRC
+
+If you feel like I can be a fit for your project, why don’t we hop on a quick chat and talk about what you’re looking for? I should be able to get you an answer on how I can help with in just a few minutes of chat.
+
+You can reach me on Upwork [www.upwork.com/freelancers/juanpgg](https://www.upwork.com/freelancers/juanpgg) or on LinkedIn [www.linkedin.com/in/juanpgg](http://www.linkedin.com/in/juanpgg)
